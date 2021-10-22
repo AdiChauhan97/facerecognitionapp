@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Main Font';
+    src: url('mainfont.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+  } 
+  
+  .titlefont {
+    font-family: 'Main Font';
+  }
